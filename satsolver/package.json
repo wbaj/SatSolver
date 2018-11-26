@@ -1,0 +1,11 @@
+{
+  "name": "satsolver",
+  "version": "1.0.0",
+  "description": "Sat_solver if668",
+  "main": "satSolverWA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wilton Araújo",
+  "license": "MIT"
+}
